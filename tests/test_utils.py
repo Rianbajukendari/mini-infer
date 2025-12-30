@@ -13,7 +13,7 @@ def test_module_structure():
     # These will be implemented in Week 2-8
     # For now, just check they can be imported
     from mini_infer import kernels, memory, engine, utils
-    
+
     assert kernels is not None
     assert memory is not None
     assert engine is not None
