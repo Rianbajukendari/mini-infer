@@ -29,7 +29,7 @@ setup(
         "transformers>=4.35.0",
         "triton>=2.1.0",
         "numpy>=1.24.0",
-        "tqdm>=4.65. 0",
+        "tqdm>=4.65.0",
     ],
     extras_require={
         "dev": [
