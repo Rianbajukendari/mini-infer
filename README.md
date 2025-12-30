@@ -2,10 +2,15 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![CUDA](https://img.shields.io/badge/CUDA-11.8+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Triton](https://img.shields.io/badge/Triton-2.1+-orange.svg)
+[![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-blue.svg)](https://www.python.org/)
+[![CUDA](https://img.shields.io/badge/CUDA-11.8%2B-green.svg)](https://developer.nvidia.com/cuda-toolkit)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Triton](https://img.shields.io/badge/Triton-2.1+-orange.svg)](https://github.com/openai/triton)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Tests](https://github.com/psmarter/mini-infer/actions/workflows/tests.yml/badge.svg)](https://github.com/psmarter/mini-infer/actions/workflows/tests.yml)
+[![Lint](https://github.com/psmarter/mini-infer/actions/workflows/lint.yml/badge.svg)](https://github.com/psmarter/mini-infer/actions/workflows/lint.yml)
+[![GitHub stars](https://img.shields.io/github/stars/psmarter/mini-infer?style=social)](https://github.com/psmarter/mini-infer/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/psmarter/mini-infer?style=social)](https://github.com/psmarter/mini-infer/network/members)
 
 **A lightweight yet powerful LLM inference engine with PagedAttention**
 
@@ -48,7 +53,7 @@ End-to-End:          80-90% of vLLM performance
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/mini-infer.git
+git clone https://github.com/psmarter/mini-infer.git
 cd mini-infer
 
 # Create virtual environment

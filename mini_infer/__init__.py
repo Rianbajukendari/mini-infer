@@ -8,7 +8,7 @@ inspired by vLLM and optimized for learning and performance.
 """
 
 __version__ = "0.1.0"
-__author__ = "Your Name"
+__author__ = "Smarter"
 __license__ = "MIT"
 
 # Core imports will be added as modules are implemented

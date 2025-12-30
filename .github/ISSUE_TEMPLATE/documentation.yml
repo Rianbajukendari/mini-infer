@@ -1,0 +1,46 @@
+name: 📚 Documentation Issue
+description: Report issues with documentation or suggest improvements
+title: "[DOCS] "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us improve our documentation! 帮助我们改进文档！
+        
+  - type: dropdown
+    id: doc-type
+    attributes:
+      label: 📖 Documentation Type | 文档类型
+      options:
+        - README
+        - API Reference
+        - Installation Guide
+        - Examples
+        - Architecture Documentation
+        - Other
+    validations:
+      required: true
+      
+  - type: textarea
+    id: issue
+    attributes:
+      label: 🔍 Issue Description | 问题描述
+      description: What's wrong or missing in the documentation?
+    validations:
+      required: true
+      
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 💡 Suggested Improvement | 改进建议
+      description: How can we improve it?
+    validations:
+      required: true
+      
+  - type: input
+    id: location
+    attributes:
+      label: 📍 Location | 位置
+      description: File path or URL where the issue exists
+      placeholder: e.g., docs/api_reference.md or https://github.com/...
