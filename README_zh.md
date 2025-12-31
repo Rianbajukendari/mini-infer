@@ -52,7 +52,7 @@ RoPE算子:        相比PyTorch加速6-8倍
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/YOUR_USERNAME/mini-infer.git
+git clone https://github.com/psmarter/mini-infer
 cd mini-infer
 
 # 2. 创建虚拟环境
